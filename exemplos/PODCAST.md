@@ -1,7 +1,7 @@
-# Podcast: Descobrindo IAs Generativas em 5 Minutos 🎙️
+# Códigos & Casts:Explorando os mistérios da tecnologia, cultura pop e inovação em cada episódio. 🎙️
 
 ## 📒 Descrição
-Este podcast de 5 minutos oferece um passeio rápido, mas profundo, pelo mundo das IAs Generativas e sua influência na tecnologia moderna.
+é o podcast que conecta você ao fascinante universo da tecnologia e da cultura pop. Em cada episódio, mergulhamos em temas que vão desde inovações tecnológicas até curiosidades do mundo digital, sempre com um toque leve e descontraído. Prepare-se para descobrir os segredos por trás dos códigos, entender tendências e se divertir enquanto explora o futuro!
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
@@ -14,7 +14,7 @@ Este podcast de 5 minutos oferece um passeio rápido, mas profundo, pelo mundo d
 ## 🚀 Resultados
 O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
 
-[LINK PARA O PODCAST AQUI]()
+(https://share.descript.com/view/ljQaUj76aDe)
 
 ## 💭 Reflexão
 O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
